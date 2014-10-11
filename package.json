@@ -10,7 +10,8 @@
     "main": "lib/fora-request",
     "dependencies": {
         "co-body": "*",
-        "co-multipart": "*"
+        "co-multipart": "*",
+        "fora-data-utils": "*"
     },
     "devDependencies": {},
     "engines": { "node": ">= 0.11.9" },
