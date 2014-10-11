@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-request",
-    "version": "0.1.2",
+    "version": "0.9.10",
     "description": "Wrapper for Fora's web requests. Mostly based on Koa's request..",
     "repository": {
         "type": "git",
